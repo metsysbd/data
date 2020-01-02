@@ -1,0 +1,21 @@
+{
+  "string": "bangla books",
+  "poka": {
+    "version": "1.0.0",
+    "urldb": "https://metsysbd.github.io/poka/app.json",
+    "urlitem": "https://metsysbd.github.io/poka/items/",
+    "urlimg": "https://metsysbd.github.io/poka/img/",
+    "urllocalitem": "poka/items/",
+    "urllocalimg": "poka/img/",
+    "featured": [
+      100001,
+      100002,
+      100003,
+      100004,
+      100005,
+      100006,
+      100007,
+      100008
+    ]
+  }
+}
